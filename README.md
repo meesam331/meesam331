@@ -1,50 +1,53 @@
 # Meesam Raza
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/meesam-raza-295701354/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/meesam331"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://huggingface.co/spaces/meesamraza"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a> </div>
-  <a href="mailto:meesamraza331@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/meesam-raza-295701354/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/meesam331"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://huggingface.co/spaces/meesamraza"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="mailto:meesamraza331@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 Who Am I?
 
-**Data Scientist & Generative AI Developer** from Khairpur, Pakistan. I build AI solutions using Python, LLMs, and Hugging Face.
+**Data Scientist & Generative AI Developer** from Khairpur, Pakistan. I turn data into intelligent solutions.
 
-- 🔭 Working on AI chatbots and resume analyzers
-- 🌱 Learning LangChain and LLM fine-tuning
-- 📫 meesamraza331@gmail.com
+🎯 **Current Focus:** Building AI chatbots and resume analyzers  
+📚 **Learning:** LangChain & LLM fine-tuning  
+💡 **Goal:** Solve real problems with AI
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ What I Work With
 
 ```
-Python  •  Java  •  C++  
-ML/AI  •  LLMs  •  Hugging Face  
-LangChain  •  Streamlit  •  Gradio  
-Pandas  •  scikit-learn  •  MySQL  
-Git  •  Jupyter  •  VS Code
+▸ Python  ▸ Java  ▸ C++
+▸ Machine Learning  ▸ LLMs  ▸ Hugging Face
+▸ LangChain  ▸ Streamlit  ▸ Gradio
+▸ Pandas  ▸ scikit-learn  ▸ MySQL
+▸ Git  ▸ Jupyter  ▸ VS Code
 ```
 
 ---
 
-### 📌 Featured Projects
+## 🚀 My Best Work
 
-**🤖 AI Resume Analyzer** — *Python, LLMs, Streamlit*  
-30% better ATS keyword matching, deployed web app
+### 🤖 AI Resume Analyzer
+**Tech:** Python, LLMs, Streamlit  
+Helps job seekers optimize resumes for ATS. Improved keyword matching by 30%.
 
-**🥗 Health Chatbot** — *Groq API, LLaMA, Hugging Face*  
-Personalized diet recommendations
+### 🥗 Health Chatbot
+**Tech:** Groq API, LLaMA, Hugging Face  
+Gives personalized diet recommendations based on user needs.
 
-**📊 Financial AI Chatbot** — *Python, Pandas, BCG*  
-10-K report analysis and financial queries
+### 📊 Financial AI Chatbot
+**Tech:** Python, Pandas, BCG Simulation  
+Analyzes 10-K reports and answers financial questions.
 
 ---
 
-### 💼 Experience
+## 💼 Where I've Worked
 
 | Role | Company | Duration |
 |------|---------|----------|
@@ -54,21 +57,30 @@ Personalized diet recommendations
 
 ---
 
-### 📚 Education & Certifications
+## 📜 Credentials
 
-**BS Computer Science** — 5th Semester  
+**Education:** BS Computer Science (5th Semester)
 
-**Certifications:**  
-Google Advanced Data Analytics • Microsoft Intro to ML • Google Prompting Essentials • HP Data Science
+**Certifications:**
+- Google Advanced Data Analytics
+- Microsoft Introduction to Machine Learning
+- Google Prompting Essentials
+- HP Data Science & Analytics
 
 ---
 
+## 📊 GitHub Snapshot
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meesam331&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=meesam331&show_icons=true&hide_title=true&count_private=true&theme=default" width="450"/>
 </div>
 
 ---
 
+## 📬 Let's Talk
+
 <div align="center">
-  <i>Let's connect and build something amazing!</i>
+  <b>Email:</b> meesamraza331@gmail.com <br>
+  <b>Location:</b> Khairpur, Pakistan <br><br>
+  <i>Open to collaboration and opportunities</i>
 </div>
