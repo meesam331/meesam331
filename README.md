@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meesam Raza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Data Science & ML Engineer | Generative AI Developer | Python Developer | AI & LLM Application Developer | NLP | Deep Learning</h3>
 
 - 🔭 I’m currently working on **Building AI chatbots and resume analyzers**
 
