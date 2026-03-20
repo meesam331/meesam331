@@ -1,86 +1,28 @@
-# Meesam Raza
+<h1 align="center">Hi 👋, I'm Meesam Raza</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/meesam-raza-295701354/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/meesam331"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://huggingface.co/spaces/meesamraza"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="mailto:meesamraza331@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+- 🔭 I’m currently working on **Building AI chatbots and resume analyzers**
 
----
+- 🌱 I’m currently learning **LangChain & LLM fine-tuning**
 
-## 👨‍💻 Who Am I?
+- 👨‍💻 All of my projects are available at [https://github.com/meesam331](https://github.com/meesam331)
 
-**Data Scientist & Generative AI Developer** from Khairpur, Pakistan. I turn data into intelligent solutions.
+- 📝 I regularly write articles on [https://www.linkedin.com/in/meesam-raza-295701354/](https://www.linkedin.com/in/meesam-raza-295701354/)
 
-🎯 **Current Focus:** Building AI chatbots and resume analyzers  
-📚 **Learning:** LangChain & LLM fine-tuning  
-💡 **Goal:** Solve real problems with AI
+- 📫 How to reach me **meesamraza331@gmail.com**
 
----
+- 📄 Know about my experiences [https://www.linkedin.com/in/meesam-raza-295701354/](https://www.linkedin.com/in/meesam-raza-295701354/)
 
-## 🛠️ What I Work With
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/meesam raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meesam raza" height="30" width="40" /></a>
+</p>
 
-```
-▸ Python  ▸ Java  ▸ C++
-▸ Machine Learning  ▸ LLMs  ▸ Hugging Face
-▸ LangChain  ▸ Streamlit  ▸ Gradio
-▸ Pandas  ▸ scikit-learn  ▸ MySQL
-▸ Git  ▸ Jupyter  ▸ VS Code
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meesam331&show_icons=true&locale=en&layout=compact" alt="meesam331" /></p>
 
-## 🚀 My Best Work
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meesam331&show_icons=true&locale=en" alt="meesam331" /></p>
 
-### 🤖 AI Resume Analyzer
-**Tech:** Python, LLMs, Streamlit  
-Helps job seekers optimize resumes for ATS. Improved keyword matching by 30%.
-
-### 🥗 Health Chatbot
-**Tech:** Groq API, LLaMA, Hugging Face  
-Gives personalized diet recommendations based on user needs.
-
-### 📊 Financial AI Chatbot
-**Tech:** Python, Pandas, BCG Simulation  
-Analyzes 10-K reports and answers financial questions.
-
----
-
-## 💼 Where I've Worked
-
-| Role | Company | Duration |
-|------|---------|----------|
-| Data Science Intern | Data Zenix | 1 Month |
-| AI/ML Intern | DevelopersHub | 6 Weeks |
-| GenAI Virtual Intern | BCG Simulation | Virtual |
-
----
-
-## 📜 Credentials
-
-**Education:** BS Computer Science (5th Semester)
-
-**Certifications:**
-- Google Advanced Data Analytics
-- Microsoft Introduction to Machine Learning
-- Google Prompting Essentials
-- HP Data Science & Analytics
-
----
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meesam331&show_icons=true&hide_title=true&count_private=true&theme=default" width="450"/>
-</div>
-
----
-
-## 📬 Let's Talk
-
-<div align="center">
-  <b>Email:</b> meesamraza331@gmail.com <br>
-  <b>Location:</b> Khairpur, Pakistan <br><br>
-  <i>Open to collaboration and opportunities</i>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meesam331&" alt="meesam331" /></p>
