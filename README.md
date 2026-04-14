@@ -27,13 +27,7 @@ I am a passionate **AI & LLM Application Developer** specializing in building in
 | **Databases** | Oracle, MySQL, PostgreSQL |
 | **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
 
----
 
-### 📊 GitHub Stats
-![Meesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meesam331&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meesam331&layout=compact&theme=radical)
-
----
 
 ### 📝 Connect & Collaborate
 I’m always open to discussing AI research, open-source projects, or potential opportunities.
