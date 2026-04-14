@@ -1,28 +1,47 @@
-<h1 align="center">Hi 👋, I'm Meesam Raza</h1>
-<h3 align="center">Data Science & ML Engineer | Generative AI Developer | Python Developer | AI & LLM Application Developer | NLP | Deep Learning</h3>
+# Hi there, I'm Meesam Raza 👋
 
-- 🔭 I’m currently working on **Building AI chatbots and resume analyzers**
+### Data Science & ML Engineer | Generative AI Developer | Python Expert
 
-- 🌱 I’m currently learning **LangChain & LLM fine-tuning**
+I am a passionate **AI & LLM Application Developer** specializing in building intelligent systems that bridge the gap between complex data and human-centric solutions. From fine-tuning Large Language Models to architecting Deep Learning pipelines, I thrive on turning "impossible" into "deployed."
 
-- 👨‍💻 All of my projects are available at [https://github.com/meesam331](https://github.com/meesam331)
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/meesam-raza-295701354/](https://www.linkedin.com/in/meesam-raza-295701354/)
+### 🔭 Currently Focused On
+* **AI Chatbots:** Developing sophisticated conversational agents with RAG (Retrieval-Augmented Generation).
+* **Resume Analyzers:** Building automated screening tools using NLP and LLMs to match talent with opportunity.
+* **LLM Fine-tuning:** Experimenting with PEFT and LoRA to specialize models for niche domains.
 
-- 📫 How to reach me **meesamraza331@gmail.com**
+### 🌱 Learning & Research
+* **LangChain Ecosystem:** Mastering LCEL and multi-agent workflows.
+* **Advanced NLP:** Deep diving into Transformer architectures and state-of-the-art embedding techniques.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/meesam-raza-295701354/](https://www.linkedin.com/in/meesam-raza-295701354/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meesam raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meesam raza" height="30" width="40" /></a>
-</p>
+### 🛠️ Languages & Technical Toolbox
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL (PL/SQL) |
+| **AI / ML** | Scikit-learn, TensorFlow, PyTorch, Deep Learning |
+| **Generative AI** | LLMs (GPT, Llama), LangChain, Fine-tuning, NLP |
+| **Databases** | Oracle, MySQL, PostgreSQL |
+| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meesam331&show_icons=true&locale=en&layout=compact" alt="meesam331" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meesam331&show_icons=true&locale=en" alt="meesam331" /></p>
+### 📊 GitHub Stats
+![Meesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meesam331&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meesam331&layout=compact&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meesam331&" alt="meesam331" /></p>
+---
+
+### 📝 Connect & Collaborate
+I’m always open to discussing AI research, open-source projects, or potential opportunities.
+
+* **Portfolio/Projects:** [github.com/meesam331](https://github.com/meesam331)
+* **Professional Network:** [LinkedIn - Meesam Raza](https://www.linkedin.com/in/meesam-raza-295701354/)
+* **Email:** [meesamraza331@gmail.com](mailto:meesamraza331@gmail.com)
+* **Read My Articles:** [LinkedIn Articles](https://www.linkedin.com/in/meesam-raza-295701354/)
+
+---
+"The best way to predict the future is to create it." — *AI Enthusiast*
