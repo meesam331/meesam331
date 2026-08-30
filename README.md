@@ -63,26 +63,8 @@ I'm a Data Science & LLM Application Developer focused on building production-re
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&theme=radical" alt="Meesam's GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HANDLE&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
-I'm always open to discussing AI research, collaborating on open-source projects, or exploring new opportunities.
-
-<p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+I'm always open to discussing AI research, collaborating on open-source projects, or exploring new opportunities. Reach out via the links at the top of this page.
 
 <p align="center"><i>"The best way to predict the future is to create it."</i></p>
