@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=640&lines=Fine-tuning+LLMs+with+PEFT+%26+LoRA;Building+RAG-powered+conversational+agents;Architecting+end-to-end+ML+pipelines;Turning+complex+data+into+human-centric+AI" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=680&lines=Fine-tuning+LLMs+with+PEFT+%26+LoRA;Building+RAG-powered+conversational+agents;Architecting+end-to-end+ML+pipelines;Deploying+scalable+NLP+systems;Turning+complex+data+into+human-centric+AI" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-HANDLE&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -21,6 +21,10 @@
 
 I'm a Data Science & LLM Application Developer focused on building production-ready generative AI systems. My work sits at the intersection of Machine Learning, NLP, and software engineering — designing pipelines that are not just accurate, but scalable, maintainable, and genuinely useful.
 
+<table>
+<tr>
+<td width="60%">
+
 ```yaml
 currently_building:  "RAG-powered conversational agents & AI-driven resume analyzers"
 currently_learning:  "LangChain's LCEL, multi-agent orchestration, advanced embeddings"
@@ -29,7 +33,16 @@ ask_me_about:        "RAG systems · LLM fine-tuning · NLP pipelines · Applied
 reach_me_at:         "meesamraza331@gmail.com"
 ```
 
-<br/>
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%"/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -79,24 +92,17 @@ reach_me_at:         "meesamraza331@gmail.com"
 
 <br/>
 
-## 📊 GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-HANDLE&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-HANDLE&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%"/>
 </div>
-
-<br/>
 
 ## 🤝 Let's Connect
 
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" align="left"/>
+
 I'm always open to discussing AI research, collaborating on open-source projects, or exploring new opportunities. Reach out via the links at the top of this page.
+
+<br clear="left"/>
 
 <div align="center">
 
