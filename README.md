@@ -257,19 +257,6 @@ Text classification project that separates spam from legitimate email.
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=meesam331&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&row=1" alt="Trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meesam331&bg_color=0D1117&color=A78BFA&line=6C63FF&point=00D4FF&area=true&area_color=6C63FF&hide_border=true&title_color=00D4FF&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meesam331/meesam331/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meesam331/meesam331/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/meesam331/meesam331/output/github-snake-dark.svg" width="100%"/>
-</picture>
 
 </div>
 
