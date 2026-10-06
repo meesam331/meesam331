@@ -28,11 +28,11 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=820&height=45&lines=DATA;DATA+%E2%86%92+EMBED;DATA+%E2%86%92+EMBED+%E2%86%92+RETRIEVE;DATA+%E2%86%92+EMBED+%E2%86%92+RETRIEVE+%E2%86%92+FINE-TUNE;DATA+%E2%86%92+EMBED+%E2%86%92+RETRIEVE+%E2%86%92+FINE-TUNE+%E2%86%92+AGENTS;DATA+%E2%86%92+EMBED+%E2%86%92+RETRIEVE+%E2%86%92+FINE-TUNE+%E2%86%92+AGENTS+%E2%86%92+DEPLOY" alt="Data to Embed to Retrieve to Fine-tune to Agents to Deploy"/>
+<img src="./pipeline.svg" width="100%" alt="Animated pipeline: Data, Embed, Retrieve, Fine-tune, Agents, Deploy"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" alt="🧠" width="34" height="34"/> About Me</h2>
 
@@ -64,7 +64,7 @@ class MeesamRaza:
 
 </td>
 <td width="38%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" alt="Coding animation"/>
+<img src="./neural-net.svg" width="100%" alt="Animated neural network"/>
 </td>
 </tr>
 </table>
@@ -75,24 +75,25 @@ class MeesamRaza:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="34" height="34"/> Impact in Numbers</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/10%2C000%2B-RECORDS_CLEANED-6C63FF?style=for-the-badge&labelColor=0D1117" alt="10,000+ records cleaned"/>
-<img src="https://img.shields.io/badge/20%25-LESS_MISSING_DATA-A78BFA?style=for-the-badge&labelColor=0D1117" alt="20% less missing data"/>
-<img src="https://img.shields.io/badge/3x-FASTER_REPORTING-F472B6?style=for-the-badge&labelColor=0D1117" alt="3x faster reporting"/>
-<img src="https://img.shields.io/badge/88%25-MODEL_ACCURACY-00D4FF?style=for-the-badge&labelColor=0D1117" alt="88% model accuracy"/>
+<img src="./impact.svg" width="100%" alt="10,000+ records cleaned, 20% less missing data, 3x faster reporting, 88% model accuracy"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9f0/512.gif" alt="🧰" width="34" height="34"/> Tech Arsenal</h2>
 
 <div align="center">
+
+<img src="./skills-marquee.svg" width="100%" alt="Scrolling skills: Python, SQL, scikit-learn, LangChain, RAG, LoRA, Docker, AWS and more"/>
+
+<br/>
 
 **Languages & Databases**
 
@@ -127,7 +128,7 @@ class MeesamRaza:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="34" height="34"/> What I Build</h2>
 
@@ -139,7 +140,7 @@ class MeesamRaza:
 | 🎛️ **LLM Fine-tuning** | Domain-specific models using PEFT and LoRA |
 | 📊 **Data Science Pipelines** | End-to-end analysis, feature engineering, and ML modeling workflows |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="34" height="34"/> Featured Projects</h2>
 
@@ -213,7 +214,7 @@ Text classification project that separates spam from legitimate email.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="34" height="34"/> Experience</h2>
 
@@ -223,7 +224,7 @@ Text classification project that separates spam from legitimate email.
 | **AI & ML Intern** | DevelopersHub Corporation *(Remote)* | Built Logistic Regression, Random Forest, and Gradient Boosting classifiers reaching 88% accuracy with GridSearchCV. Used PCA and correlation analysis for feature selection. |
 | **GenAI Consulting Virtual Intern** | BCG Simulation *(Remote)* | Prototyped a LangChain + OpenAI chatbot that answers financial questions from 10-K reports, and tuned prompts for accuracy and relevance. |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="34" height="34"/> Learning Roadmap</h2>
 
@@ -241,7 +242,7 @@ Text classification project that separates spam from legitimate email.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="34" height="34"/> GitHub Analytics</h2>
 
@@ -262,9 +263,17 @@ Text classification project that separates spam from legitimate email.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meesam331&bg_color=0D1117&color=A78BFA&line=6C63FF&point=00D4FF&area=true&area_color=6C63FF&hide_border=true&title_color=00D4FF&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meesam331/meesam331/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meesam331/meesam331/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/meesam331/meesam331/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="34" height="34"/> Certifications</h2>
 
@@ -278,7 +287,7 @@ Text classification project that separates spam from legitimate email.
 | **Data Science and Analytics** | HP LIFE | – |
 | **Foundations of Business Intelligence** | Google / Coursera | – |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header" width="100%" alt=""/>
+<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="34" height="34"/> Let's Connect</h2>
 
