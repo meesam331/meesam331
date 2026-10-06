@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Meesam%20Raza&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20GenAI%20%26%20Agentic%20AI%20Developer&descAlignY=58&descSize=20" width="100%" alt="Meesam Raza"/>
+<img src="./banner.svg" width="100%" alt="Meesam Raza: Data Scientist, ML Engineer, GenAI and Agentic AI Developer"/>
 
 <a href="https://github.com/meesam331"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=780&height=50&lines=Data+Scientist+%7C+ML+Engineer;Fine-tuning+LLMs+with+PEFT+%26+LoRA;Building+RAG-powered+conversational+agents;Designing+agentic+AI+workflows;Architecting+end-to-end+ML+pipelines;Turning+complex+data+into+human-centric+AI" alt="Typing animation"/></a>
 
@@ -304,6 +304,6 @@ I'm actively seeking **AI/ML Engineer** opportunities, and always open to discus
 
 <i>"The best way to predict the future is to create it."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%" alt=""/>
+<img src="./footer.svg" width="100%" alt="Thanks for visiting"/>
 
 </div>
