@@ -23,7 +23,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN_TO_WORK-AI%2FML_Engineer-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=meesam331&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/meesam331?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117" alt="Followers"/>
 
 <br/><br/>
