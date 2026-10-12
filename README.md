@@ -213,17 +213,6 @@ Text classification project that separates spam from legitimate email.
 
 </div>
 
-<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
-
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="34" height="34"/> Experience</h2>
-
-| Role | Where | Highlights |
-|---|---|---|
-| **Data Science Intern** | Data Zenix *(Remote)* | Cleaned 10,000+ record datasets and cut missing data by 20% with KNN and mean/median imputation. Automated reports in Python, Pandas, and Seaborn, delivering 3x faster. |
-| **AI & ML Intern** | DevelopersHub Corporation *(Remote)* | Built Logistic Regression, Random Forest, and Gradient Boosting classifiers reaching 88% accuracy with GridSearchCV. Used PCA and correlation analysis for feature selection. |
-| **GenAI Consulting Virtual Intern** | BCG Simulation *(Remote)* | Prototyped a LangChain + OpenAI chatbot that answers financial questions from 10-K reports, and tuned prompts for accuracy and relevance. |
-
-<div align="center"><img src="./divider.svg" width="100%" alt=""/></div>
 
 <h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="34" height="34"/> Learning Roadmap</h2>
 
